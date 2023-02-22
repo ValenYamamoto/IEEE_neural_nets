@@ -40,3 +40,35 @@ Here are some resources. They should be done in the following order.
 - [Stanford RNN and NLP](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 - [Recurrent Neural Networks](https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/)
 - [Variational Autoencoders Intro](https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368)
+
+## From the Old Lecture Notes: Next Steps
+* Look into more specific uses and cool projects for neural networks
+    * computer vision
+    * natural language processing
+    * predicting weather
+* Look into PyTorch's docs (they're surprising good) - https://pytorch.org/docs/stable/index.html
+    * Learning PyTorch with Examples (recomend this) - https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+* Check out different frameworks
+    * tensorflow
+    * keras
+    * OpenCV (for computer vision)
+* Look more in-depth into one area of neural networks
+    * Study activation functions/loss functions
+    * Look at different layer types
+    * Study different optimization algorithms
+        * Adam - https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c
+        * RMSprop
+
+* Read some papers
+    * [Multi-layer Neural Network](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
+    * [Convolutional Neural Networks (CNNs / ConvNets)](https://cs231n.github.io/convolutional-networks/)
+    * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+    * [Weight decay](https://papers.nips.cc/paper/563-a-simple-weight-decay-can-improve-generalization.pdf)
+    * [Dropout](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
+    * [Batch norm](https://arxiv.org/abs/1502.03167)
+    * [Layer norm](https://arxiv.org/abs/1607.06450)
+    * [Weight norm](https://arxiv.org/abs/1602.07868)
+    * [SGD](http://ufldl.stanford.edu/tutorial/supervised/OptimizationStochasticGradientDescent/)
+    * [Momentum SGD](http://ufldl.stanford.edu/tutorial/supervised/OptimizationStochasticGradientDescent/)
+    * [Adam](https://arxiv.org/abs/1412.6980)
+    * [Other Optimizers](https://arxiv.org/abs/1609.04747)
