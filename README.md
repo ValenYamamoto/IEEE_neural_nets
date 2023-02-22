@@ -1,9 +1,9 @@
 # IEEE Neural Networks Workshop 2023
 
 What's in the repository:
-Lecture Slides
-Old Lecture Notes
-PyTorch Installation Guide
+1. Lecture Slides - neuralnetworks_v2.pptx
+2. Old Lecture Notes - Pytorch_lecture_notes.md
+3. PyTorch Installation Guide - PyTorch_download_guide.md
 
 Template Colab Notebook: https://colab.research.google.com/drive/1GFFJL_0vMLgaQNNyhYWsUiWFUYzCxkng?usp=share_link
 Completed Colab Notebook: https://colab.research.google.com/drive/17xgJYUjpSwzFy1aYgdSoziIUdPxWCnoQ?usp=share_link
