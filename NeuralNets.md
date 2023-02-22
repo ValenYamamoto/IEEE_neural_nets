@@ -1,4 +1,10 @@
+# IEEE Neural Networks Workshop 2023
+
 # Resources
+Here are some resources. They should be done in the following order.
+
+![Ordering picture](neuralnets.jpg)
+
 1. [PyTorch Fashion MNIST Tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
 2. [Neural Network Overview](https://towardsdatascience.com/a-beginner-friendly-explanation-of-how-neural-networks-work-55064db60df4)
 3. [Soft Intro to Neural Network Math](https://towardsdatascience.com/introduction-to-math-behind-neural-networks-e8b60dbbdeba)
